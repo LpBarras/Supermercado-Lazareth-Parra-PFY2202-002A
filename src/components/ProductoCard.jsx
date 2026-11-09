@@ -52,9 +52,7 @@ export default function ProductoCard({ producto }) {
             disabled={producto.stock === 0}
             //se puede agregar al carrito directamente sin ver el detalle
             onClick={() => agregarAlCarrito(producto.id)}
-          >
-            //si no queda stock del producto el boton cambia 
-            {producto.stock > 0 ? "Agregar al carrito" : "Sin stock"}
+          >{producto.stock > 0 ? "Agregar al carrito" : "Sin stock"}
           </button>
         </div>
       </div>
