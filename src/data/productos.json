@@ -1,0 +1,112 @@
+[
+  {
+    "id": "p1",
+    "nombre": "Leche entera",
+    "marca": "Colun",
+    "categoria": "Lácteos",
+    "precio": 1290,
+    "stock": 18,
+    "unidad": "1 litro",
+    "descripcion": "Leche entera de consumo diario.",
+    "icono": "🥛"
+  },
+  {
+    "id": "p2",
+    "nombre": "Yogur natural",
+    "marca": "Soprole",
+    "categoria": "Lácteos",
+    "precio": 690,
+    "stock": 14,
+    "unidad": "125 g",
+    "descripcion": "Yogur natural individual.",
+    "icono": "🥣"
+  },
+  {
+    "id": "p3",
+    "nombre": "Manzana roja",
+    "marca": "Huerto local",
+    "categoria": "Frutas y verduras",
+    "precio": 1590,
+    "stock": 25,
+    "unidad": "1 kg",
+    "descripcion": "Manzanas frescas seleccionadas.",
+    "icono": "🍎"
+  },
+  {
+    "id": "p4",
+    "nombre": "Plátano",
+    "marca": "Selección",
+    "categoria": "Frutas y verduras",
+    "precio": 1390,
+    "stock": 20,
+    "unidad": "1 kg",
+    "descripcion": "Plátanos frescos para toda ocasión.",
+    "icono": "🍌"
+  },
+  {
+    "id": "p5",
+    "nombre": "Arroz grado 1",
+    "marca": "Tucapel",
+    "categoria": "Abarrotes",
+    "precio": 1690,
+    "stock": 16,
+    "unidad": "1 kg",
+    "descripcion": "Arroz blanco para preparaciones caseras.",
+    "icono": "🍚"
+  },
+  {
+    "id": "p6",
+    "nombre": "Fideos espirales",
+    "marca": "Carozzi",
+    "categoria": "Abarrotes",
+    "precio": 1090,
+    "stock": 22,
+    "unidad": "400 g",
+    "descripcion": "Pasta de trigo en formato espiral.",
+    "icono": "🍝"
+  },
+  {
+    "id": "p7",
+    "nombre": "Pan de molde",
+    "marca": "Ideal",
+    "categoria": "Panadería",
+    "precio": 2490,
+    "stock": 12,
+    "unidad": "500 g",
+    "descripcion": "Pan de molde para desayunos y colaciones.",
+    "icono": "🍞"
+  },
+  {
+    "id": "p8",
+    "nombre": "Detergente líquido",
+    "marca": "Omo",
+    "categoria": "Limpieza",
+    "precio": 4990,
+    "stock": 9,
+    "unidad": "900 ml",
+    "descripcion": "Detergente líquido para ropa.",
+    "icono": "🧴"
+  },
+  {
+    "id": "p9",
+    "nombre": "Jabón líquido",
+    "marca": "Simonds",
+    "categoria": "Higiene",
+    "precio": 1990,
+    "stock": 11,
+    "unidad": "340 ml",
+    "descripcion": "Jabón líquido para manos.",
+    "icono": "🧼"
+  },
+  {
+    "id": "p10",
+    "nombre": "Agua mineral",
+    "marca": "Cachantun",
+    "categoria": "Bebidas",
+    "precio": 990,
+    "stock": 30,
+    "unidad": "1,5 litros",
+    "descripcion": "Agua mineral sin gas.",
+    "icono": "💧"
+  }
+]
